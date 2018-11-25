@@ -1,0 +1,10 @@
+{
+  "Cool Ranch Doritos": {
+    "quantity": 1,
+    "price": 1.3
+  }
+  "Nacho Cheese Doritos": {
+    "quantity": 2,
+    "price": 1.0
+  }
+}
